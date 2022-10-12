@@ -125,9 +125,12 @@ while (st[i]!='\n' &&st[i] !='\0') \\检查是否存在换行符
            
 }
 
-----
+```
+___
+#  一个合理的输入框应当具备：
+-  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTc2Nzk4OTQsNTI1Nzc1MDYsMTcyNT
-AyOTk3MF19
+eyJoaXN0b3J5IjpbMTYxMzE5NzQ5OCw1MjU3NzUwNiwxNzI1MD
+I5OTcwXX0=
 -->
