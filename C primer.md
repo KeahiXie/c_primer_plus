@@ -104,7 +104,8 @@ eg：a=a+1
 
 ---
 #  标准输入函数s_get_s()函数模版
->`#include<stdio.h>
+```
+#include<stdio.h>
 char * s_get(char * st,int n)
 {
 char * ret val;
@@ -118,12 +119,15 @@ while (st[i]!='\n' &&st[i] !='\0')
         st[i]='\0';
       else
            while(getchar()!='\n')
+           contiune;
+           }
+           return ret_val;
            
-}
+}`
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzA5NDI0OCw1MjU3NzUwNiwxNzI1MD
-I5OTcwXX0=
+eyJoaXN0b3J5IjpbLTEyNTAxODg3LDUyNTc3NTA2LDE3MjUwMj
+k5NzBdfQ==
 -->
