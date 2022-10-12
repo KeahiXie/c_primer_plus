@@ -103,9 +103,12 @@ eg：a=a+1
   * **这是一个非常重点的内容，有助于分析递增、减后缀何时发生（P104多读多看）**
 
 ---
+#  标准输入函数s_get_s()函数模版
+>#
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1Nzc1MDYsMTcyNTAyOTk3MF19
+eyJoaXN0b3J5IjpbODA3NjY3NzgzLDUyNTc3NTA2LDE3MjUwMj
+k5NzBdfQ==
 -->
