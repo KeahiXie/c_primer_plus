@@ -105,11 +105,16 @@ eg：a=a+1
 ---
 #  标准输入函数s_get_s()函数模版
 >#include<stdio.h>
+char * s_get(char * st,int n)
+{
+char * ret val;
+int i=0;
 
+}
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE1OTI5NjM4LDUyNTc3NTA2LDE3MjUwMj
-k5NzBdfQ==
+eyJoaXN0b3J5IjpbLTE0NDcyMDgwMzAsNTI1Nzc1MDYsMTcyNT
+AyOTk3MF19
 -->
