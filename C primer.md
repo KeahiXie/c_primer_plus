@@ -130,9 +130,13 @@ ___
 #  一个合理的输入框应当具备：
 -  提示用户正确输入数据类型；
 - 处理用户与目标输入数据类型不匹配的输入
-  * eg：预设输入数字时，假设用户输入
+  * eg：预设输入数字时，假设用户输入字母和符号；
+ 
+- 再次提醒用户输入
+- 给予反馈
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA1Njc1OTI0LDUyNTc3NTA2LDE3MjUwMj
-k5NzBdfQ==
+eyJoaXN0b3J5IjpbLTEyMjk0ODkyNDMsNTI1Nzc1MDYsMTcyNT
+AyOTk3MF19
 -->
