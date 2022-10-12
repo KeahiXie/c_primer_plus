@@ -113,9 +113,9 @@ int i=0;
 ret_val=fgets(st,n,stdin);
 if(ret_val)
 {
-while (st[i]!='\n' &&st[i] !='\0')
-      i++;
-      if (st[i]=='\n')
+while (st[i]!='\n' &&st[i] !='\0') \\检查是否存在换行符
+      i++;  \\逐个字符依次检查
+      if (st[i]=='\n')  \\当
         st[i]='\0';
       else
            while(getchar()!='\n')
@@ -128,6 +128,6 @@ while (st[i]!='\n' &&st[i] !='\0')
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTAxODg3LDUyNTc3NTA2LDE3MjUwMj
-k5NzBdfQ==
+eyJoaXN0b3J5IjpbMTc0NzgwOTg5Miw1MjU3NzUwNiwxNzI1MD
+I5OTcwXX0=
 -->
