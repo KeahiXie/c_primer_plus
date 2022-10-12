@@ -113,12 +113,14 @@ ret_val=fgets(st,n,stdin);
 if(ret_val)
 {
 while (st[i]!='\n' &&st[i] !='\0')
-      i
+      i++;
+      if (st[i]=='\n')
+      
 }
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3OTI5MTU0OSw1MjU3NzUwNiwxNzI1MD
-I5OTcwXX0=
+eyJoaXN0b3J5IjpbLTIwODkzNzcyMjgsNTI1Nzc1MDYsMTcyNT
+AyOTk3MF19
 -->
