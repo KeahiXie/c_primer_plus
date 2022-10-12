@@ -115,12 +115,15 @@ if(ret_val)
 while (st[i]!='\n' &&st[i] !='\0')
       i++;
       if (st[i]=='\n')
-      
+        st[i]='\0';
+      else
+           while(getchar()!='\n')
+           
 }
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODkzNzcyMjgsNTI1Nzc1MDYsMTcyNT
-AyOTk3MF19
+eyJoaXN0b3J5IjpbMTEyNzA5NDI0OCw1MjU3NzUwNiwxNzI1MD
+I5OTcwXX0=
 -->
