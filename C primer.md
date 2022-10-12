@@ -109,12 +109,15 @@ char * s_get(char * st,int n)
 {
 char * ret val;
 int i=0;
-
+ret_val=fgets(st,n,stdin);
+if(ret_val)
+{
+while []
 }
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDcyMDgwMzAsNTI1Nzc1MDYsMTcyNT
+eyJoaXN0b3J5IjpbLTE4MzE1NjUyMTcsNTI1Nzc1MDYsMTcyNT
 AyOTk3MF19
 -->
