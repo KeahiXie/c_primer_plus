@@ -115,10 +115,10 @@ if(ret_val)
 {
 while (st[i]!='\n' &&st[i] !='\0') \\检查是否存在换行符
       i++;  \\逐个字符依次检查
-      if (st[i]=='\n')  \\当
+      if (st[i]=='\n')  \\当为换行符时用空白符替换换行符
         st[i]='\0';
       else
-           while(getchar()!='\n')
+           while(getchar()!='\n')  \\ 
            contiune;
            }
            return ret_val;
@@ -128,6 +128,6 @@ while (st[i]!='\n' &&st[i] !='\0') \\检查是否存在换行符
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NzgwOTg5Miw1MjU3NzUwNiwxNzI1MD
+eyJoaXN0b3J5IjpbMTM0NzYzNzMwMiw1MjU3NzUwNiwxNzI1MD
 I5OTcwXX0=
 -->
