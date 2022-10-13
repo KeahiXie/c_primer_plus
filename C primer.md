@@ -142,11 +142,12 @@ ___
 - InitList(*L):初始化操作，建立一个空的线性表L
 -  ListEmpty(L):若线性表为空，返回true，否则返回false
 - ClearList（*L）：将线性表清空
-- GetElem(L,
+- GetElem(L,i,*e):将线性表L中的第i个位置元素值返回给e
+- LocateElem（L，：
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NjAyNDIyNiwtMTIyOTQ4OTI0Myw1Mj
-U3NzUwNiwxNzI1MDI5OTcwXX0=
+eyJoaXN0b3J5IjpbNzQ4Mzk4MjIxLC0xMjI5NDg5MjQzLDUyNT
+c3NTA2LDE3MjUwMjk5NzBdfQ==
 -->
