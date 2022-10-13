@@ -145,11 +145,11 @@ ___
 - GetElem(L,i,*e):将线性表L中的第i个位置元素值返回给e
 - LocateElem（L，e）：在线性表中查找与定值e相等的元素，如果查找成功，返回该元素在表中的*序号*表示成功；否则，返回0表示失败
 - ListInsert(*L,i,e):在线性表L中的第i个位置     **插入** 新元素e
-- ListDelete(*L,i,*e);shac n
+- ListDelete(*L,i,*e)：删除线性表L中第i个位置元素，并用e返回其值
+- ListLength(L):返回线性表L的元素个数
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgxNzcwNTk4LC0xMjI5NDg5MjQzLDUyNT
-c3NTA2LDE3MjUwMjk5NzBdfQ==
+eyJoaXN0b3J5IjpbMTc1NDU4MTMyNl19
 -->
