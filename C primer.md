@@ -136,7 +136,13 @@ ___
 - 给予反馈
 
 
+---
+
+#  线性表函数类型
+-InitList(*L):初始化
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjk0ODkyNDMsNTI1Nzc1MDYsMTcyNT
-AyOTk3MF19
+eyJoaXN0b3J5IjpbMTgyODk0ODQ5MCwtMTIyOTQ4OTI0Myw1Mj
+U3NzUwNiwxNzI1MDI5OTcwXX0=
 -->
