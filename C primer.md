@@ -139,10 +139,13 @@ ___
 ---
 
 #  线性表函数类型
--InitList(*L):初始化
+- InitList(*L):初始化操作，建立一个空的线性表L
+-  ListEmpty(L):若线性表为空，返回true，否则返回false
+- 
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyODk0ODQ5MCwtMTIyOTQ4OTI0Myw1Mj
+eyJoaXN0b3J5IjpbMTQ1ODE5MDE4NSwtMTIyOTQ4OTI0Myw1Mj
 U3NzUwNiwxNzI1MDI5OTcwXX0=
 -->
