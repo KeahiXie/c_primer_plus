@@ -143,11 +143,12 @@ ___
 -  ListEmpty(L):若线性表为空，返回true，否则返回false
 - ClearList（*L）：将线性表清空
 - GetElem(L,i,*e):将线性表L中的第i个位置元素值返回给e
-- LocateElem（L，e）：在线性表中查找与定值e相等的元素，如果查找成功，返回该元素在表中的*序号*bai
+- LocateElem（L，e）：在线性表中查找与定值e相等的元素，如果查找成功，返回该元素在表中的*序号*表示成功；否则，返回0表示失败
+- ListInsert(*L,i,e):在线性表L中的第i个位置*插入*。新元素e
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTgwNzE0MjEsLTEyMjk0ODkyNDMsNT
-I1Nzc1MDYsMTcyNTAyOTk3MF19
+eyJoaXN0b3J5IjpbLTE1NjkyNjkzLC0xMjI5NDg5MjQzLDUyNT
+c3NTA2LDE3MjUwMjk5NzBdfQ==
 -->
