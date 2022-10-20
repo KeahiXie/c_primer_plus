@@ -150,10 +150,10 @@ ___
 
 
 ##  时间复杂度排序
-O(1)<O(LOG)<O(N)<O(NLOG)<O(N2.3.4)<O(2N)<O
+O(1)<O(LOG)<O(N)<O(NLOG)<O(N2.3.4)<O(2N)<O(N!)<O(NN)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NDgyOTQ4MywtMTgzOTk0NjEwNiwtMT
-g5ODU3MTY1NiwxNzU0NTgxMzI2XX0=
+eyJoaXN0b3J5IjpbLTE4NzQyNTA0ODcsLTE4Mzk5NDYxMDYsLT
+E4OTg1NzE2NTYsMTc1NDU4MTMyNl19
 -->
