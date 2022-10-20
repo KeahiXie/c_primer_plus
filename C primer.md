@@ -149,10 +149,11 @@ ___
 - ListLength(L):返回线性表L的元素个数
 
 
-##  
-
+##  时间复杂度排序
+O(1)<O(LOG)<O(N)<O
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTg1NzE2NTYsMTc1NDU4MTMyNl19
+eyJoaXN0b3J5IjpbLTE4Mzk5NDYxMDYsLTE4OTg1NzE2NTYsMT
+c1NDU4MTMyNl19
 -->
