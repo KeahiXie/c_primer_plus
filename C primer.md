@@ -149,7 +149,10 @@ ___
 - ListLength(L):返回线性表L的元素个数
 
 
+##
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NDU4MTMyNl19
+eyJoaXN0b3J5IjpbMTA5MTEzMDc0NCwxNzU0NTgxMzI2XX0=
 -->
